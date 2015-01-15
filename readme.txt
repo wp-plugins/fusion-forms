@@ -11,7 +11,6 @@ This plugin allows Infusionsoft users to quickly embed great looking webforms in
 
 
 == Description ==
-=================
 
 **FusionForms will allow you to...**
 
@@ -22,7 +21,6 @@ This plugin allows Infusionsoft users to quickly embed great looking webforms in
 
 
 == Installation ==
-==================
 
 1. Upload `fusionforms.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the "Plugins" menu in WordPress
@@ -32,7 +30,6 @@ This plugin allows Infusionsoft users to quickly embed great looking webforms in
 
 
 == Screenshots ==
-=================
 
 1. Fusion Forms Settings Screen
 2. Fusion Forms Shortcode Generator on a WordPress page
@@ -40,7 +37,6 @@ This plugin allows Infusionsoft users to quickly embed great looking webforms in
 4. The same webform embedded on a page using Infusionsoft's standard form embed code (2015 Theme)
 
 == Changelog ==
-===============
 
 ### 0.1.1 - 2015-01-14
 + Addressed an issue which caused the plugin to fail when other instances of the Infusionsoft SDK were running in the theme or other plugins
